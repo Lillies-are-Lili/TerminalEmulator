@@ -20,7 +20,7 @@ INSTRUCTIONS FOR RUNNING main.c:
 Once the file is compiled, the terminal should be asking for input. Type in ./main and press enter. The program is now running. You should be provided with a command line interface, with the directories this file is in, listed and in red. You are prompted for commands and necessary arguments to run those commands. You can do a variety of commands, from cat and vi, to cd and pwd. You can also exit the program whenever by typing in the command, exit. 
 
 CHALLENGES AND CONSTRAINTS:
-It had been a while since I had coded in C, and thus it took a while getting used to the syntax and necessary functions to run the program. Since the announcement of the project, I had been dealing with health problems, and I fell heavily behind on my studies and assignments for all of my classes. I recovered the last weekend of the assignment due date and thus I struggled to work under such a pressured time frame.  It was also difficult fully determining if your processes forked correctly, and attempting to show the pid of each process. I also took a while trying to get the execvp function to work.
+It had been a while since I had coded in C, and thus it took a while getting used to the syntax and necessary functions to run the program. It was also difficult fully determining if your processes forked correctly, and attempting to show the pid of each process. I also took a while trying to get the execvp function to work.
 
 SOURCES:
 IBM: https://www.ibm.com/docs/en/zos/3.1.0
